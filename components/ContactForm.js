@@ -22,7 +22,7 @@ var ContactForm = React.createClass({
           value={this.props.contact.email}
         />
         <button type={'submit'}>
-          "Dodaj kontakt"
+          Dodaj kontakt
         </button>
       </form>
     )
